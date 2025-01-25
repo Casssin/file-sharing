@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": ".", // Ensure the base path is correctly set
     "paths": {
       "@/*": ["./*"]
     }
